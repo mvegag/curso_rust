@@ -1,0 +1,1 @@
+C:\Users\mateo\RustroverProjects\curso_rust\semana_1\curso_rust\introduccion\semana_1\loops\target\debug\loops.exe: C:\Users\mateo\RustroverProjects\curso_rust\semana_1\curso_rust\introduccion\semana_1\loops\src\main.rs

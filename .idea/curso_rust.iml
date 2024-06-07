@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/introduccion/semana_1/condicionales/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/introduccion/semana_1/control_flow/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/introduccion/semana_1/loops/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/introduccion/semana_1/variables/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/introduccion/semana_1/variables_shadowing/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/introduccion/semana_1/condicionales/target" />
+      <excludeFolder url="file://$MODULE_DIR$/introduccion/semana_1/control_flow/target" />
+      <excludeFolder url="file://$MODULE_DIR$/introduccion/semana_1/loops/target" />
+      <excludeFolder url="file://$MODULE_DIR$/introduccion/semana_1/variables/target" />
+      <excludeFolder url="file://$MODULE_DIR$/introduccion/semana_1/variables_shadowing/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
